@@ -31,7 +31,7 @@ Dataset
 TBA. 
 
 
-Code
+Notebooks
 ------------
-Jupyter Notebook: `01_model_training.ipynb <https://github.com/razmyar/Intelligent-FSS-Sensor/blob/master/notebooks/01_model_training.ipynb>`_
+First Experiment: `01_model_training.ipynb <https://github.com/razmyar/Intelligent-FSS-Sensor/blob/master/notebooks/01_model_training.ipynb>`_
 
